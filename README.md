@@ -1,4 +1,4 @@
-        #Proyecto en c#
+                                            #Proyecto en c#
 
         ##Lista de alumnos##
 
