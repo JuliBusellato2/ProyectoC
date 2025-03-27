@@ -1,4 +1,4 @@
-                                                  #Lista de alumnos
+                                                  Lista de alumnos
 
 
 
@@ -8,4 +8,4 @@
 **Te permite:**
 
 
-ingresar alumnos en las posiciones que desees, eliminar alumnos en la posicion que desees y tambien visualizar la lista.
+ingresar alumnos en las posiciones que desees, eliminar alumnos en las posiciones que desees y tambien visualizar la lista.
